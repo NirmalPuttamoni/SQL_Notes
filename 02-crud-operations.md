@@ -24,7 +24,7 @@ Let me give you all a brief idea about what Sakila database represents so that i
 
 ### CREATE Query
 
-First of all, what is SQL? SQL stands for Structured Query Language. It is a language used to interact with relational databases. It allows you to create tables, fetch data from them, update data, manage user permissions etc. Today we will just focus on creation of data. Remaining things will be covered over the coming classes. Why "Structured Query" bceause it allows to query over data arranged in a structured way. Eg: In Relational databases, data is structured into tables. 
+First of all, what is SQL? SQL stands for Structured Query Language. It is a language used to interact with relational databases. It allows you to create tables, fetch data from them, update data, manage user permissions etc. Today we will just focus on creation of data. Remaining things will be covered over the coming classes. Why "Structured Query" because it allows to query over data arranged in a structured way. Eg: In Relational databases, data is structured into tables. 
 
 A simple query to create a table in MySQL has:
   - column names
