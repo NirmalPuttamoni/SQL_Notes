@@ -57,7 +57,7 @@ Later in the course, you will learn about multi-threading and multi-processing. 
 
 4. Security
 
-Earlier we talked about storing password of users. Imagine them being stored on files. Anyone who has access to the file can see the password of all users. Also anyone who has access to the file can update it as well. THere is no authorization at user level. Eg: a particular person may be only allowed to read, not write. '
+Earlier we talked about storing password of users. Imagine them being stored on files. Anyone who has access to the file can see the password of all users. Also anyone who has access to the file can update it as well. There is no authorization at user level. Eg: a particular person may be only allowed to read, not write. '
 
 ### What's a Database
 
